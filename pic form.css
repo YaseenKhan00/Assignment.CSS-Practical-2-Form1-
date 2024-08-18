@@ -1,0 +1,91 @@
+body{
+   background-color: rgb(71, 17, 121);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+
+    width: 320px;
+    height: 435px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-right: 260px;
+    padding: 20px;
+}
+
+
+
+input{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    margin-left: 50px;}
+    .password{
+        margin-left: 40px;
+    }
+button{
+    width: 80px;
+    margin-left: 50px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(46, 6, 83);
+    border-radius: 30px;
+}
+button:hover{
+    color: black;
+    background-color: rgb(48, 20, 150);
+}
+button:active{
+    background-color: rgb(41, 36, 36);
+    transform: scale(0.9);
+}
+.p2{
+    margin-left: 50px;
+}
+.link{
+    margin-left: 45px;
+    font-size: 15px;
+    font-size: 25px;
+    
+   
+}
+.fac:hover{
+    color: #0046f8;
+    background-color: rgb(241, 239, 239);
+    
+}
+.fac:active{
+    background-color: rgb(41, 36, 36);
+    transform: scale(0.9);
+}
+
+.twe:hover{
+    color: #0046f8;
+    background-color: rgb(255, 246, 246);
+    
+}
+.twe:active{
+    background-color: rgb(41, 36, 36);
+    transform: scale(0.9);
+}
+.goo:hover{
+    color: #0046f8;
+    background-color: rgb(255, 246, 246);
+}
+.goo:active{
+    background-color: rgb(41, 36, 36);
+    transform: scale(0.9);
+}
+.pic{
+    width: 396px;
+    height: 476px;
+    background-color: rgb(131, 11, 121);
+   margin-left: -410px;
+ margin-top: -422px;
+ background-image: url(./22.jfif);
+
+
+}
